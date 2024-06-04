@@ -10,8 +10,23 @@ public class Matematika {
         this.bil2 = bil2;
     }
     
-    //Membuat SetMethod Penjumlahan
+    //Membuat Method SetPenjumlahan
     double setPenjumlahan(){
         return bil1 + bil2;
+    }
+    
+    //Membuat Method SetPenjumlahan
+    double setPengurangan(){
+        return bil1 - bil2;
+    }
+    
+    //Membuat Method SetPenjumlahan
+    double setPerkalian(){
+        return bil1 * bil2;
+    }
+    
+    //Membuat Method SetPenjumlahan
+    double setPemabgaian(){
+        return bil1 / bil2;
     }
 }
