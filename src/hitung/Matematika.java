@@ -26,7 +26,7 @@ public class Matematika {
     }
     
     //Membuat Method SetPenjumlahan
-    double setPemabgaian(){
+    double setPembagian(){
         return bil1 / bil2;
     }
 }
